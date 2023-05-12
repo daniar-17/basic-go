@@ -1,0 +1,5 @@
+# Create Mod 
+go mod init namefolder 
+
+# Function 
+Declare name function initial name with Upper example : Add, Multiply
