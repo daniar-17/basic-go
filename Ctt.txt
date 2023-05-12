@@ -2,4 +2,6 @@
 go mod init namefolder 
 
 # Function 
-Declare name function initial name with Upper example : Add, Multiply
+- Declare name function initial name with Upper example : Add, Multiply
+- := especialy to new variable 
+- = to set new value variable
